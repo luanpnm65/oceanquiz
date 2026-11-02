@@ -1,0 +1,363 @@
+[
+  {
+    "category_slug": "ca",
+    "wiki_page_id": 10001,
+    "title": "Cá mập trắng lớn",
+    "slug": "ca-map-trang-lon",
+    "summary": "Cá mập trắng lớn (danh pháp hai phần: Carcharodon carcharias), còn được gọi là cá mập trắng, là một loài cá mập thu thuộc họ Lamnidae phân bố tại các vùng nước bề mặt ven bờ ở tất cả các đại dương lớn.",
+    "content": "Cá mập trắng lớn (danh pháp hai phần: Carcharodon carcharias), đôi khi còn gọi là cá mập trắng hay cái chết trắng, là một loài cá sụn lớn thuộc bộ Cá nhám thu hiện diện ở các vùng nước bề mặt ven bờ tại hầu hết các đại dương trên Trái Đất, đặc biệt tập trung nhiều ở các vùng biển ôn đới.\n\nĐây là loài cá ăn thịt lớn nhất còn tồn tại trên hành tinh. Cá mập trắng lớn nổi tiếng vì kích thước khổng lồ với những cá thể trưởng thành có thể đạt chiều dài từ 4,6 đến 6 mét và cân nặng lên tới hơn 2.000 kilôgam. Con cái thường có kích thước lớn hơn con đực. Cá mập trắng lớn đạt độ tuổi trưởng thành sinh dục vào khoảng 26 tuổi ở con đực và 33 tuổi ở con cái. Tuổi thọ của chúng từng được cho là khoảng 30 năm, nhưng các nghiên cứu hiện đại bằng phương pháp định tuổi đồng vị phóng xạ trên đốt sống cho thấy chúng có thể sống tới 70 năm hoặc lâu hơn.\n\nCá mập trắng lớn có phần lưng màu xám giúp hòa lẫn với đáy biển đá tối màu khi nhìn từ trên xuống, trong khi phần bụng có màu trắng sáng giúp ngụy trang với ánh sáng mặt trời khi nhìn từ dưới lên. Kiểu ngụy trang này được gọi là ngụy trang ngược sáng (countershading). Hàm răng của chúng gồm khoảng 300 chiếc răng hình tam giác có cạnh răng cưa sắc bén xếp thành nhiều hàng liên tiếp; khi một chiếc răng bị gãy, răng ở hàng sau sẽ di chuyển lên thay thế.\n\nKhông giống phần lớn các loài cá máu lạnh hoàn toàn, cá mập trắng lớn là loài biến nhiệt cục bộ (endothermic). Chúng có hệ thống mạch máu đặc biệt gọi là mạng lưới kỳ diệu (rete mirabile) giúp giữ nhiệt độ cơ thể và dạ dày cao hơn nhiệt độ nước biển xung quanh tới 14 độ C, cho phép chúng săn mồi cực kỳ nhanh nhẹn ở vùng nước lạnh với tốc độ bứt tốc lên tới 56 km/h.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg",
+    "source_url": "https://vi.wikipedia.org/wiki/C%C3%A1_m%E1%BA%ADp_tr%E1%BA%AFng_l%E1%BB%9Bn",
+    "question_set": {
+      "title": "Khám phá Cá mập trắng lớn - Sát thủ đại dương",
+      "reading_seconds": 180,
+      "question_seconds": 20,
+      "questions": [
+        {
+          "content": "Cá mập trắng lớn sống chủ yếu ở vùng nước nào?",
+          "options": [
+            "Nước ôn đới và ven bờ ở các đại dương lớn",
+            "Các hệ thống sông nước ngọt nhiệt đới",
+            "Đáy vực sâu trên 6.000 mét không có ánh sáng",
+            "Các hồ nước mặn nội địa kín"
+          ],
+          "correct_index": 0,
+          "explanation": "Bài viết nêu rõ cá mập trắng lớn phân bố tại các vùng nước bề mặt ven bờ ở các đại dương lớn, đặc biệt là vùng biển ôn đới."
+        },
+        {
+          "content": "Theo các nghiên cứu hiện đại bằng định tuổi đồng vị phóng xạ, tuổi thọ của cá mập trắng lớn có thể đạt tới bao nhiêu năm?",
+          "options": [
+            "Khoảng 15 năm",
+            "Khoảng 30 năm",
+            "Tới 70 năm hoặc lâu hơn",
+            "Trên 200 năm"
+          ],
+          "correct_index": 2,
+          "explanation": "Nghiên cứu định tuổi đồng vị phóng xạ trên đốt sống cho thấy cá mập trắng lớn có thể sống tới 70 năm hoặc lâu hơn."
+        },
+        {
+          "content": "Đặc điểm phần lưng màu xám và phần bụng màu trắng của cá mập trắng lớn có tác dụng gì?",
+          "options": [
+            "Giúp thu hút bạn tình vào mùa sinh sản",
+            "Ngụy trang ngược sáng khi nhìn từ trên xuống và từ dưới lên",
+            "Giúp hấp thụ oxy qua da nhanh hơn",
+            "Cảnh báo các loài cá voi có độc"
+          ],
+          "correct_index": 1,
+          "explanation": "Lưng xám hòa với đáy biển tối khi nhìn từ trên xuống, bụng trắng hòa với ánh mặt trời khi nhìn từ dưới lên (countershading)."
+        },
+        {
+          "content": "Hệ thống mạch máu 'mạng lưới kỳ diệu' (rete mirabile) giúp cá mập trắng lớn có khả năng gì đặc biệt?",
+          "options": [
+            "Phát sáng trong bóng tối ở vùng biển sâu",
+            "Thở được trên cạn trong vòng 2 giờ",
+            "Giữ nhiệt độ cơ thể cao hơn nước biển xung quanh để săn mồi ở nước lạnh",
+            "Tái tạo lại toàn bộ vây lưng khi bị đứt"
+          ],
+          "correct_index": 2,
+          "explanation": "Mạng lưới kỳ diệu giúp giữ nhiệt độ cơ thể và dạ dày cao hơn nước xung quanh tới 14°C, giúp chúng săn mồi nhanh nhẹn ở vùng nước lạnh."
+        },
+        {
+          "content": "Tốc độ bứt tốc tối đa khi săn mồi của cá mập trắng lớn có thể đạt khoảng bao nhiêu?",
+          "options": [
+            "15 km/h",
+            "30 km/h",
+            "56 km/h",
+            "110 km/h"
+          ],
+          "correct_index": 2,
+          "explanation": "Bài viết nêu cá mập trắng lớn có thể bứt tốc lên tới 56 km/h khi săn mồi."
+        }
+      ]
+    }
+  },
+  {
+    "category_slug": "thu-bien",
+    "wiki_page_id": 10002,
+    "title": "Cá voi xanh",
+    "slug": "ca-voi-xanh",
+    "summary": "Cá voi xanh (danh pháp hai phần: Balaenoptera musculus) là một loài động vật có vú sống ở biển thuộc phân bộ Cá voi tấm sừng hàm. Với chiều dài lên tới gần 30 mét và nặng gần 180 tấn, đây là động vật lớn nhất từng được biết đến trong lịch sử Trái Đất.",
+    "content": "Cá voi xanh (Balaenoptera musculus) là loài động vật có vú sống ở biển thuộc phân bộ Cá voi tấm sừng hàm (Mysticeti). Với chiều dài tối đa được ghi nhận lên tới 29,9 mét và trọng lượng lên tới 173–190 tấn, cá voi xanh không chỉ là động vật lớn nhất hiện đang sống mà còn là động vật nặng nhất từng tồn tại trong lịch sử Trái Đất, vượt qua cả những loài khủng long chân thằn lằn lớn nhất.\n\nCơ thể cá voi xanh dài và thon gọn, có màu xám xanh ở mặt lưng và sáng màu hơn ở mặt bụng. Trái tim của một con cá voi xanh trưởng thành nặng khoảng 180 kg, tương đương kích thước của một chiếc xe ô tô nhỏ, và chỉ đập từ 4 đến 8 nhịp mỗi phút khi lặn sâu. Lưỡi của chúng nặng tới 2,7 tấn, bằng trọng lượng của một con voi châu Á trưởng thành.\n\nMặc dù có kích thước khổng lồ, thức ăn gần như duy nhất của cá voi xanh lại là loài giáp xác cực nhỏ gọi là nhuyễn thể (krill). Một con cá voi xanh trưởng thành có thể tiêu thụ tới 4 tấn (khoảng 40 triệu con) nhuyễn thể mỗi ngày vào mùa kiếm ăn cao điểm ở các vùng nước lạnh gần cực. Chúng kiếm ăn bằng cách lao tới đớp một lượng nước khổng lồ chứa đầy nhuyễn thể vào miệng, sau đó dùng lưỡi đẩy nước ra ngoài qua khoảng 300 đến 400 tấm sừng hàm (baleen) bằng keratin để giữ lại thức ăn.\n\nCá voi xanh cũng là một trong những loài phát ra âm thanh lớn nhất thế giới động vật. Tiếng kêu tần số thấp của chúng đạt mức 188 decibel, có thể truyền đi hàng trăm, thậm chí hàng nghìn kilômét dưới mặt nước để giao tiếp với các cá thể khác.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "source_url": "https://vi.wikipedia.org/wiki/C%C3%A1_voi_xanh",
+    "question_set": {
+      "title": "Cá voi xanh - Người khổng lồ hiền lành của biển cả",
+      "reading_seconds": 180,
+      "question_seconds": 20,
+      "questions": [
+        {
+          "content": "Cá voi xanh thuộc nhóm phân loại sinh vật nào?",
+          "options": [
+            "Cá xương khổng lồ thở bằng mang",
+            "Động vật có vú sống ở biển thuộc phân bộ Cá voi tấm sừng hàm",
+            "Bò sát biển cổ đại",
+            "Cá sụn cùng họ với cá nhám voi"
+          ],
+          "correct_index": 1,
+          "explanation": "Cá voi xanh là động vật có vú sống ở biển thuộc phân bộ Cá voi tấm sừng hàm (Mysticeti)."
+        },
+        {
+          "content": "Trái tim của một con cá voi xanh trưởng thành có trọng lượng khoảng bao nhiêu?",
+          "options": [
+            "Khoảng 15 kg",
+            "Khoảng 50 kg",
+            "Khoảng 180 kg",
+            "Khoảng 1.500 kg"
+          ],
+          "correct_index": 2,
+          "explanation": "Trái tim của cá voi xanh trưởng thành nặng khoảng 180 kg, tương đương kích thước một chiếc xe ô tô nhỏ."
+        },
+        {
+          "content": "Thức ăn gần như duy nhất của cá voi xanh là gì?",
+          "options": [
+            "Cá ngừ đại dương và mực ống khổng lồ",
+            "Tảo bẹ và rong biển tầng đáy",
+            "Nhuyễn thể (krill) - loài giáp xác nhỏ bé",
+            "Hải cẩu và chim cánh cụt"
+          ],
+          "correct_index": 2,
+          "explanation": "Dù có kích thước khổng lồ, cá voi xanh hầu như chỉ ăn nhuyễn thể (krill) bằng cách lọc qua tấm sừng hàm."
+        },
+        {
+          "content": "Vào mùa kiếm ăn cao điểm, một con cá voi xanh trưởng thành có thể tiêu thụ bao nhiêu nhuyễn thể mỗi ngày?",
+          "options": [
+            "Khoảng 100 kg",
+            "Khoảng 500 kg",
+            "Tới 4 tấn (khoảng 40 triệu con)",
+            "Tới 50 tấn"
+          ],
+          "correct_index": 2,
+          "explanation": "Một con cá voi xanh trưởng thành có thể ăn tới 4 tấn (khoảng 40 triệu con) nhuyễn thể mỗi ngày."
+        },
+        {
+          "content": "Cường độ âm thanh tiếng kêu giao tiếp tần số thấp của cá voi xanh có thể đạt mức bao nhiêu?",
+          "options": [
+            "60 decibel",
+            "100 decibel",
+            "188 decibel",
+            "350 decibel"
+          ],
+          "correct_index": 2,
+          "explanation": "Tiếng kêu tần số thấp của cá voi xanh đạt mức 188 decibel và truyền đi hàng trăm kilômét dưới nước."
+        }
+      ]
+    }
+  },
+  {
+    "category_slug": "than-mem",
+    "wiki_page_id": 10003,
+    "title": "Bạch tuộc đốm xanh",
+    "slug": "bach-tuoc-dom-xanh",
+    "summary": "Bạch tuộc đốm xanh (chi Hapalochlaena) là một chi gồm bốn loài bạch tuộc cực độc sống ở các hồ thủy triều và rạn san hô tại Thái Bình Dương và Ấn Độ Dương, từ Nhật Bản đến Úc.",
+    "content": "Bạch tuộc đốm xanh (thuộc chi Hapalochlaena) là một nhóm gồm bốn loài bạch tuộc nhỏ nhưng được công nhận là một trong những sinh vật biển có nọc độc nguy hiểm nhất trên thế giới. Chúng sinh sống chủ yếu tại các hồ thủy triều và rạn san hô nông ở vùng biển Thái Bình Dương và Ấn Độ Dương, trải dài từ vùng biển Nhật Bản xuống tới miền nam nước Úc.\n\nKích thước của bạch tuộc đốm xanh rất nhỏ bé, chỉ dài từ 12 đến 20 cm tính cả xúc tu (tương đương một quả bóng golf) và nặng khoảng 25 đến 100 gram. Khi nghỉ ngơi, chúng có màu vàng nhạt hoặc nâu xám giúp ngụy trang hoàn hảo giữa các hốc đá và cát. Tuy nhiên, khi bị khiêu khích hoặc cảm thấy bị đe dọa, các tế bào sắc tố trên da sẽ co giãn nhanh chóng làm xuất hiện khoảng 50 đến 60 vòng tròn màu xanh lam rực rỡ phát sáng chỉ trong vòng chưa đầy một phần ba giây để cảnh báo kẻ thù.\n\nVũ khí đáng sợ nhất của bạch tuộc đốm xanh là chất độc thần kinh tetrodotoxin (TTX) nằm trong tuyến nước bọt của chúng, được sản sinh bởi các vi khuẩn cộng sinh. Tetrodotoxin mạnh gấp khoảng 1.200 lần so với chất độc xyanua. Lượng độc tố trong cơ thể một con bạch tuộc đốm xanh nhỏ bé đủ khả năng làm tê liệt và giết chết 26 người trưởng thành chỉ trong vài phút.\n\nKhi bị cắn, vết cắn thường rất nhỏ và hầu như không gây đau đớn nên nạn nhân có thể không nhận ra ngay. Tuy nhiên, chất độc nhanh chóng chặn các kênh natri trong hệ thần kinh, gây tê liệt cơ bắp toàn thân và dẫn đến ngừng thở trong khi nạn nhân vẫn hoàn toàn tỉnh táo. Hiện nay y học vẫn chưa có huyết thanh kháng độc đặc hiệu cho tetrodotoxin; cách cấp cứu duy nhất là hô hấp nhân tạo và thở máy liên tục cho đến khi cơ thể tự đào thải hết độc tố sau khoảng 24 giờ.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hapalochlaena_lunulata2.JPG",
+    "source_url": "https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_tu%E1%BB%99c_%C4%91%E1%BB%91m_xanh",
+    "question_set": {
+      "title": "Bạch tuộc đốm xanh - Viên ngọc tử thần",
+      "reading_seconds": 180,
+      "question_seconds": 20,
+      "questions": [
+        {
+          "content": "Khi nào các vòng tròn màu xanh lam rực rỡ trên cơ thể bạch tuộc đốm xanh mới hiện rõ nhất?",
+          "options": [
+            "Khi chúng đang ngủ sâu vào ban đêm",
+            "Khi chúng bị khiêu khích hoặc cảm thấy bị đe dọa",
+            "Khi nhiệt độ nước biển giảm xuống dưới 5 độ C",
+            "Chỉ xuất hiện ở những cá thể đã chết"
+          ],
+          "correct_index": 1,
+          "explanation": "Bình thường chúng có màu vàng nâu ngụy trang; khi bị đe dọa, 50-60 vòng tròn xanh lam sẽ phát sáng để cảnh báo kẻ thù."
+        },
+        {
+          "content": "Chất độc thần kinh chính trong tuyến nước bọt của bạch tuộc đốm xanh có tên là gì?",
+          "options": [
+            "Hemotoxin",
+            "Tetrodotoxin (TTX)",
+            "Batrachotoxin",
+            "Ricin"
+          ],
+          "correct_index": 1,
+          "explanation": "Bạch tuộc đốm xanh mang độc tố thần kinh tetrodotoxin (TTX) do vi khuẩn cộng sinh trong tuyến nước bọt tạo ra."
+        },
+        {
+          "content": "Lượng độc tố trong một con bạch tuộc đốm xanh đủ để giết chết khoảng bao nhiêu người trưởng thành?",
+          "options": [
+            "1 người",
+            "5 người",
+            "26 người",
+            "500 người"
+          ],
+          "correct_index": 2,
+          "explanation": "Bài viết nêu rõ lượng độc trong một con bạch tuộc đốm xanh đủ làm tê liệt và giết chết 26 người trưởng thành."
+        },
+        {
+          "content": "Cơ chế gây tử vong chính của độc tố bạch tuộc đốm xanh đối với con người là gì?",
+          "options": [
+            "Làm đông máu ngay lập tức trong tim",
+            "Gây tê liệt cơ bắp dẫn đến ngừng hô hấp trong khi nạn nhân vẫn tỉnh táo",
+            "Làm bỏng nặng toàn bộ bề mặt da",
+            "Phá hủy tế bào gan sau 3 tuần"
+          ],
+          "correct_index": 1,
+          "explanation": "Tetrodotoxin chặn kênh natri thần kinh, gây liệt cơ và ngừng thở trong khi nạn nhân vẫn tỉnh táo."
+        },
+        {
+          "content": "Phương pháp cấp cứu quan trọng nhất khi một người bị bạch tuộc đốm xanh cắn là gì?",
+          "options": [
+            "Tiêm ngay huyết thanh kháng nọc rắn lục",
+            "Chườm đá lạnh vào vết thương",
+            "Hô hấp nhân tạo và hỗ trợ thở máy cho đến khi cơ thể tự đào thải độc tố",
+            "Cho nạn nhân uống nhiều nước muối biển"
+          ],
+          "correct_index": 2,
+          "explanation": "Hiện chưa có thuốc giải đặc hiệu cho TTX; biện pháp cứu sống duy nhất là hỗ trợ hô hấp (thở máy) tới khi độc tố được đào thải."
+        }
+      ]
+    }
+  },
+  {
+    "category_slug": "giap-xac",
+    "wiki_page_id": 10004,
+    "title": "Tôm tích",
+    "slug": "tom-tich",
+    "summary": "Tôm tích (hay tôm tít, bề bề, thuộc bộ Stomatopoda) là nhóm giáp xác biển săn mồi hung dữ nổi tiếng với đôi càng có cú đấm nhanh như đạn bắn và hệ thống thị giác phức tạp nhất trong giới động vật.",
+    "content": "Tôm tích, ở miền Bắc Việt Nam thường gọi là bề bề và ở miền Nam gọi là tôm tít, là tên gọi chung của các loài giáp xác biển thuộc bộ Chân miệng (Stomatopoda). Dù mang tên là tôm nhưng chúng chỉ có quan hệ họ hàng xa với tôm và cua thông thường. Tôm tích thường dài từ 10 đến 30 cm, sống trong các hang dưới đáy biển nông vùng nhiệt đới và cận nhiệt đới.\n\nCác nhà sinh vật học chia tôm tích thành hai nhóm chính dựa theo cấu tạo đôi chân hàm thứ hai dùng để săn mồi: nhóm 'đâm' (spearers) có càng nhiều gai nhọn để xiên con mồi mềm như cá, và nhóm 'đấm' (smashers) có phần gót càng phình to cứng như chày dùng để đập vỡ vỏ ốc, cua và trai biển.\n\nNhóm tôm tích đấm sở hữu một trong những cú ra đòn nhanh nhất thế giới tự nhiên. Càng của chúng phóng ra với tốc độ lên tới 23 mét/giây (khoảng 83 km/h) và gia tốc tương đương một viên đạn súng trường cỡ nhỏ 0.22 caliber. Do tốc độ quá lớn, vùng nước phía trước càng bị giảm áp suất đột ngột tạo ra các bọt khí siêuavit (cavitation bubbles). Khi các bọt khí này vỡ tung, chúng tạo ra sóng xung kích thứ hai kèm theo tia sáng nhỏ và nhiệt độ cực cao trong tích tắc, có thể làm choáng hoặc giết chết con mồi ngay cả khi cú đấm trượt mục tiêu.\n\nBên cạnh vũ khí cơ học, đôi mắt kép của tôm tích cũng là kỳ quan sinh học. Trong khi mắt người chỉ có 3 loại tế bào cảm thụ màu sắc (đỏ, lục, lam), mắt của tôm tích có từ 12 đến 16 loại tế bào cảm thụ ánh sáng khác nhau, cho phép chúng nhìn thấy cả tia cực tím (UV) và ánh sáng phân cực tròn.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/OdontodactylusScyllarus2.jpg",
+    "source_url": "https://vi.wikipedia.org/wiki/T%C3%B4m_t%C3%ADch",
+    "question_set": {
+      "title": "Tôm tích (Bề bề) - Võ sĩ quyền anh dưới đáy biển",
+      "reading_seconds": 180,
+      "question_seconds": 20,
+      "questions": [
+        {
+          "content": "Ở miền Bắc Việt Nam, loài tôm tích thường được gọi phổ biến bằng tên nào?",
+          "options": [
+            "Tôm hùm bông",
+            "Bề bề",
+            "Cua hoàng đế",
+            "Tôm càng xanh"
+          ],
+          "correct_index": 1,
+          "explanation": "Bài viết nêu rõ tôm tích ở miền Bắc Việt Nam thường được gọi là bề bề, miền Nam gọi là tôm tít."
+        },
+        {
+          "content": "Tốc độ cú đấm của nhóm tôm tích 'đấm' (smashers) có thể đạt tới mức nào?",
+          "options": [
+            "Khoảng 5 km/h",
+            "Khoảng 20 km/h",
+            "Khoảng 23 mét/giây (tương đương 83 km/h)",
+            "Nhanh hơn tốc độ ánh sáng"
+          ],
+          "correct_index": 2,
+          "explanation": "Càng của tôm tích đấm phóng ra với tốc độ 23 m/s (khoảng 83 km/h), gia tốc tương đương viên đạn 0.22 caliber."
+        },
+        {
+          "content": "Hiện tượng vật lý nào xảy ra trong nước ngay sau cú đấm cực nhanh của tôm tích giúp tạo sóng xung kích thứ hai?",
+          "options": [
+            "Hiện tượng đóng băng nước tức thời",
+            "Sự hình thành và vỡ tung của bọt khí siêu tốc (cavitation bubbles)",
+            "Sự phóng điện cao thế như cá chình điện",
+            "Hiện tượng phản xạ toàn phần"
+          ],
+          "correct_index": 1,
+          "explanation": "Tốc độ càng quá lớn làm áp suất nước giảm đột ngột tạo bọt khí cavitation; khi bọt vỡ tạo sóng xung kích thứ hai làm choáng con mồi."
+        },
+        {
+          "content": "So với mắt người có 3 loại tế bào cảm thụ màu sắc, mắt của tôm tích có bao nhiêu loại tế bào cảm thụ ánh sáng?",
+          "options": [
+            "Chỉ có 1 loại (nhìn trắng đen)",
+            "2 loại",
+            "4 loại",
+            "Từ 12 đến 16 loại"
+          ],
+          "correct_index": 3,
+          "explanation": "Mắt kép của tôm tích có từ 12 đến 16 loại tế bào cảm thụ ánh sáng, nhìn được cả tia cực tím và ánh sáng phân cực."
+        },
+        {
+          "content": "Các nhà sinh vật học chia tôm tích thành 2 nhóm chính dựa trên cấu tạo vũ khí săn mồi là gì?",
+          "options": [
+            "Nhóm bơi nhanh và nhóm bò chậm",
+            "Nhóm 'đâm' (spearers) và nhóm 'đấm' (smashers)",
+            "Nhóm phun độc và nhóm quấn siết",
+            "Nhóm nước ngọt và nhóm nước lợ"
+          ],
+          "correct_index": 1,
+          "explanation": "Tôm tích được chia thành nhóm 'đâm' (spearers) có gai nhọn và nhóm 'đấm' (smashers) có chày đập vỏ cứng."
+        }
+      ]
+    }
+  },
+  {
+    "category_slug": "san-ho-va-sua",
+    "wiki_page_id": 10005,
+    "title": "Sứa bờm sư tử",
+    "slug": "sua-bom-su-tu",
+    "summary": "Sứa bờm sư tử (danh pháp hai phần: Cyanea capillata) là loài sứa lớn nhất được biết đến trên thế giới. Chúng sinh sống ở vùng nước lạnh giá của Bắc Băng Dương, phía bắc Đại Tây Dương và phía bắc Thái Bình Dương.",
+    "content": "Sứa bờm sư tử (danh pháp khoa học: Cyanea capillata) là loài sứa lớn nhất từng được ghi nhận trên thế giới. Chúng phân bố chủ yếu tại các vùng biển lạnh giá thuộc Bắc Băng Dương, Bắc Đại Tây Dương và Bắc Thái Bình Dương, hiếm khi di chuyển xuống phía nam vĩ tuyến 42 độ Bắc vì không chịu được vùng nước ấm.\n\nTên gọi 'bờm sư tử' xuất phát từ hàng trăm xúc tu dài mảnh rủ xuống từ mặt dưới của phần dù sứa, trông giống như chiếc bờm xù của một con sư tử đực. Kích thước của loài sứa này thay đổi rất lớn tùy theo vùng biển: những cá thể ở vùng vĩ độ thấp chỉ có đường kính dù khoảng 50 cm, nhưng ở vùng nước cực lạnh phương bắc, đường kính dù có thể vượt quá 2 mét. Cá thể sứa bờm sư tử lớn nhất từng được đo đạc dạt vào bờ biển vịnh Massachusetts (Hoa Kỳ) năm 1870 có đường kính dù 2,3 mét và các xúc tu dài tới 36,5 mét — dài hơn cả chiều dài của một con cá voi xanh.\n\nPhần dưới dù của sứa bờm sư tử được chia thành 8 cụm xúc tu, mỗi cụm chứa từ 70 đến 150 xúc tu, tổng cộng có thể lên tới 1.200 xúc tu. Trên bề mặt các xúc tu này chứa hàng triệu tế bào gai độc (nematocysts) dùng để làm tê liệt cá nhỏ, động vật phù du và cả các loài sứa khác. Vết chích của sứa bờm sư tử gây đau rát dữ dội và nổi mẩn đỏ cho người bơi lội, nhưng hiếm khi gây tử vong cho người khỏe mạnh.\n\nMột đặc điểm thú vị là nhiều loài cá nhỏ và giáp xác có khả năng miễn nhiễm với nọc độc thường bơi ẩn nấp ngay bên trong đám xúc tu của sứa bờm sư tử để được bảo vệ khỏi kẻ săn mồi lớn hơn.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cyanea_capillata.jpg",
+    "source_url": "https://vi.wikipedia.org/wiki/S%E1%BB%A9a_b%E1%BB%9Dm_s%C6%B0_t%E1%BB%AD",
+    "question_set": {
+      "title": "Sứa bờm sư tử - Dải lụa khổng lồ vùng biển Bắc",
+      "reading_seconds": 180,
+      "question_seconds": 20,
+      "questions": [
+        {
+          "content": "Sứa bờm sư tử phân bố chủ yếu ở môi trường nước biển như thế nào?",
+          "options": [
+            "Vùng biển nhiệt đới ấm áp quanh xích đạo",
+            "Vùng nước lạnh của Bắc Băng Dương, Bắc Đại Tây Dương và Bắc Thái Bình Dương",
+            "Chỉ sống ở vùng biển quanh Nam Cực",
+            "Các cửa sông nước lợ Đông Nam Á"
+          ],
+          "correct_index": 1,
+          "explanation": "Sứa bờm sư tử thích nghi với vùng biển lạnh phương Bắc và hiếm khi xuống phía nam vĩ tuyến 42 độ Bắc."
+        },
+        {
+          "content": "Cá thể sứa bờm sư tử lớn nhất từng được ghi nhận năm 1870 có chiều dài xúc tu lên tới bao nhiêu mét?",
+          "options": [
+            "5 mét",
+            "12 mét",
+            "20 mét",
+            "36,5 mét (dài hơn cả cá voi xanh)"
+          ],
+          "correct_index": 3,
+          "explanation": "Cá thể kỷ lục năm 1870 ở vịnh Massachusetts có đường kính dù 2,3 mét và xúc tu dài tới 36,5 mét."
+        },
+        {
+          "content": "Một con sứa bờm sư tử trưởng thành có thể có tổng cộng bao nhiêu xúc tu chia thành 8 cụm?",
+          "options": [
+            "Chỉ có đúng 8 xúc tu",
+            "Khoảng 24 xúc tu",
+            "Lên tới 1.200 xúc tu",
+            "Trên 50.000 xúc tu"
+          ],
+          "correct_index": 2,
+          "explanation": "Phần dưới dù chia thành 8 cụm, mỗi cụm từ 70 đến 150 xúc tu, tổng cộng có thể lên tới 1.200 xúc tu."
+        },
+        {
+          "content": "Các tế bào chuyên biệt trên xúc tu của sứa bờm sư tử dùng để tiêm độc làm tê liệt con mồi được gọi là gì?",
+          "options": [
+            "Tế bào gai độc (nematocysts)",
+            "Tế bào sắc tố (chromatophores)",
+            "Tấm sừng hàm (baleen)",
+            "Mạng lưới kỳ diệu (rete mirabile)"
+          ],
+          "correct_index": 0,
+          "explanation": "Trên xúc tu sứa chứa hàng triệu tế bào gai độc (nematocysts) dùng để bắt cá nhỏ và sinh vật phù du."
+        },
+        {
+          "content": "Mối quan hệ giữa một số loài cá nhỏ miễn nhiễm nọc độc và sứa bờm sư tử là gì?",
+          "options": [
+            "Cá nhỏ cắn đứt hết xúc tu của sứa để làm tổ",
+            "Cá nhỏ ẩn nấp bên trong đám xúc tu của sứa để tránh kẻ săn mồi lớn hơn",
+            "Sứa bám vào lưng cá nhỏ để di chuyển nhanh hơn",
+            "Cá nhỏ dẫn đường cho sứa lên cạn"
+          ],
+          "correct_index": 1,
+          "explanation": "Nhiều loài cá nhỏ và giáp xác miễn nhiễm với độc tố thường bơi ẩn nấp trong xúc tu sứa để được bảo vệ khỏi kẻ thù."
+        }
+      ]
+    }
+  }
+]
+
